@@ -1,0 +1,8 @@
+server:
+  port : 8889
+management:
+  dbs:
+    path: "jdbc:postgresql://localhost:5432/postgres"
+    user: "orisc"
+    pass: "ff65e98f-8618"
+    driver: "org.postgresql.Driver"
